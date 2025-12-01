@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I’m Shivansh</h1>
+<h1 align="center">👋 Hi</h1>
 <h3 align="center">💻 Full-Stack Developer | B.Tech CSE | Lovely Professional University</h3>
 <p align="center">Passionate about solving real-world problems through clean code, modern tech, and creative thinking.</p>
 
