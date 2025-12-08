@@ -89,8 +89,8 @@ A modern starter kit for building full-stack apps using Astro + Supabase.
 
 ## 📬 Contact  
 For collaboration, feedback, or connection:  
-📧 *Add your email here*  
-🔗 *Add LinkedIn/Portfolio link here (optional)*  
+📧 *divyanshusahu71@gmail.com*  
+🔗 *<h><a href="www.linkedin.com/in/divyanshu-sahu-98104916a">linked In</a>*  
 
 ---
 
