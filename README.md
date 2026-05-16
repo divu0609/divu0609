@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-HTML • CSS • TailwindCSS • JavaScript • Astro  
+HTML • CSS • TailwindCSS • JavaScript  
 
 ### **Backend**
 PHP • Supabase • Node.js (learning) • REST APIs  
@@ -58,16 +58,19 @@ A clean and intuitive tool for planning trips and managing travel itineraries.
 
 ---
 
-## 🚀 Astro + Supabase Starter Template  
-🔗 https://github.com/divu0609/astro-supabase-starter  
+## 🚀 Fitness & Sports
+🔗 https://github.com/divu0609/Fitness_And_Sports.git
 
-A modern starter kit for building full-stack apps using Astro + Supabase.
+A modern web app focused on fitness and sports management, built to help users track activities, explore sports-related features, and maintain a healthy lifestyle.
 
-✨ **Highlights**  
-- User authentication  
-- Clean Astro layout  
-- Supabase database integration  
-- Perfect base for dashboards, SaaS, and personal apps
+✨ Highlights
+
+User authentication system
+Activity/workout tracking
+Sports-focused dashboard
+Database integration for storing user data
+Responsive and clean UI
+Great foundation for fitness platforms, sports communities, and health-focused apps
 
 ---
 
